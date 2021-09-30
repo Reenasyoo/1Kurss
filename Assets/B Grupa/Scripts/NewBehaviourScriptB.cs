@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class NewBehaviourScript : MonoBehaviour
+public class NewBehaviourScriptB : MonoBehaviour
 {
     // Accessor type / value type / value name / value
     public int a = 3; // Integer 1,2,3 -1,-2,-3
